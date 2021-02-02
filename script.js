@@ -1,1 +1,1 @@
-const LoveOfMyLife = "Ankita Verma";
+const AnkitaVerma = "Love of my life";
